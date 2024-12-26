@@ -657,7 +657,7 @@ Math.minmax = (value, limit) => {
             <p>
               Follow me
               <a href="https://www.linkedin.com/in/disandu-perera-8bb931264/" , target="_blank"
-                >@HunorBorbely</a
+                >@Disandu Pereray</a
               >
             </p>`;
         noteElement.style.opacity = 1;
