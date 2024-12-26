@@ -656,7 +656,7 @@ Math.minmax = (value, limit) => {
             ${!hardMode ? "<p>Press H for hard mode</p>" : ""}
             <p>
               Follow me
-              <a href="https://twitter.com/HunorBorbely" , target="_blank"
+              <a href="https://www.linkedin.com/in/disandu-perera-8bb931264/" , target="_blank"
                 >@HunorBorbely</a
               >
             </p>`;
